@@ -10,6 +10,11 @@
   --max-width: 1200px;
 }
 
+body{
+  background: rgb(214,215,227);
+background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(197, 195, 231, 0.916) 100%);
+}
+
 * {
   padding: 0;
   margin: 0;
